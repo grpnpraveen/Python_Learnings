@@ -1,0 +1,11 @@
+pip
+bpy
+pyinstaller
+beautifulsoup
+pyttsx3 (text to speech)
+requests
+playsound
+numpy
+matplotlib
+opencv
+pip install PyPDF2 => pdf reader
